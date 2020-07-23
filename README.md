@@ -15,27 +15,27 @@ Usage of details:
         summary tag
 ```
 
-```bash
+````bash
 $ echo "This is a sample string." | details
 <details>
 
-\`\`\`
+```
 This is a sample string.
-\`\`\`
+```
 
 </details>
-```
+````
 
-```
+````bash
 $ echo "This is a sample string." | details -summary placeholder
 <details><summary>placeholder</summary>
 
-\`\`\`
+```
 This is a sample string.
-\`\`\`
+```
 
 </details>
-```
+````
 
 
 ## License
