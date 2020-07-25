@@ -11,8 +11,10 @@
 ```bash
 $ details -help
 Usage of details:
+  -file string
+    	input file path
   -summary string
-        summary tag
+    	summary tag
 ```
 
 ````bash
