@@ -10,6 +10,7 @@ import (
 	"github.com/thekuwayama/details/format"
 )
 
+// Run runs this CLI.
 func Run() {
 	var summary = flag.String("summary", "", "summary tag")
 	var file = flag.String("file", "", "input file path")
