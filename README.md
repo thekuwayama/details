@@ -1,6 +1,7 @@
 # details
 
 [![CI](https://github.com/thekuwayama/details/workflows/CI/badge.svg)](https://github.com/thekuwayama/details/actions?workflow=CI)
+[![Go Report Card](https://goreportcard.com/badge/github.com/thekuwayama/details)](https://goreportcard.com/report/github.com/thekuwayama/details)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/thekuwayama/details/master/LICENSE.txt)
 
 `details` is the command that adds details tag header and footer.
